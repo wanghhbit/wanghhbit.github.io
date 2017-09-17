@@ -15,15 +15,15 @@
         <meta name="author" content="">
   
 	
-        <meta property="og:site_name" content="wanghh site">
-        <meta property="og:title" content="wanghh site">
+        <meta property="og:site_name" content="王虹皓 site">
+        <meta property="og:title" content="王虹皓 site">
         <meta property="og:url" content="http://wanghhbit.github.io/post/">
         <meta property="og:description" content="start to do something different">
     
         <meta property="og:type" content="website" />
     
         <meta name="generator" content="Hugo 0.18.1" />
-        <title>Posts &middot; wanghh site</title>
+        <title>Posts &middot; 王虹皓 site</title>
         <link rel="canonical" href="http://wanghhbit.github.io/" />
         <link rel="alternate" type="application/rss+xml" title="RSS" href="http://wanghhbit.github.io/post/index.xml">
         <link rel="stylesheet" type="text/css" href="http://wanghhbit.github.io/css/main.css"/>
@@ -37,7 +37,7 @@
 
     <header id="site-header">
         <div class="container">
-            <a href="http://wanghhbit.github.io/" alt="wanghh site"><h1 class="blog-title heading">wanghh site</h1></a>
+            <a href="http://wanghhbit.github.io/" alt="王虹皓 site"><h1 class="blog-title heading">王虹皓 site</h1></a>
             <p class="blog-description">start to do something different</p>
         </div>
     </header>
