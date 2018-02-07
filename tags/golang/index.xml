@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on 王虹皓 site</title>
+    <title>Golang on For My Yixing </title>
     <link>http://wanghhbit.github.io/tags/golang/index.xml</link>
-    <description>Recent content in Golang on 王虹皓 site</description>
+    <description>Recent content in Golang on For My Yixing </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://wanghhbit.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
